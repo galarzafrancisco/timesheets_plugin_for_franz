@@ -1,0 +1,13 @@
+  
+{
+    "id": "timesheets",
+    "name": "Timeseets",
+    "version": "0.0.1",
+    "description": "Trello",
+    "main": "index.js",
+    "author": "francisco.galarza@servian.com",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://consultancy.internal.servian.com/timesheet/timesheet/entry/"
+    }
+  }
